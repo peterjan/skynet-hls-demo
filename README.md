@@ -30,6 +30,6 @@ For chrome [Native HLS Playback](https://chrome.google.com/webstore/detail/nativ
 
 The best place to test your HLS steams is on https://hls-js.netlify.com/demo/.
 
-This is a [working HLS demo](https://hls-js.netlify.com/demo/?src=https%3A%2F%2Fsiasky.dev%2FAACaBKPpZmzoky48x8S2a1vYUNlC1p6647eV7cyIz_Bcrg%2Fjellyfish%2Findex.m3u8&demoConfig=eyJlbmFibGVTdHJlYW1pbmciOnRydWUsImF1dG9SZWNvdmVyRXJyb3IiOnRydWUsImR1bXBmTVA0IjpmYWxzZSwibGV2ZWxDYXBwaW5nIjotMSwibGltaXRNZXRyaWNzIjotMX0=) of the jelly fish.
+This is a [working HLS demo](https://hls-js.netlify.com/demo/?src=https%3A%2F%2Fsiasky.net%2FAACaBKPpZmzoky48x8S2a1vYUNlC1p6647eV7cyIz_Bcrg%2Fjellyfish%2Findex.m3u8&demoConfig=eyJlbmFibGVTdHJlYW1pbmciOnRydWUsImF1dG9SZWNvdmVyRXJyb3IiOnRydWUsImR1bXBmTVA0IjpmYWxzZSwibGV2ZWxDYXBwaW5nIjotMSwibGltaXRNZXRyaWNzIjotMX0=) of the jelly fish.
 
 
